@@ -1,7 +1,7 @@
 5.GPU使用问题
 ============
 
-### 使用 CUDA toolkit 编译程序后，在  `gpu_test` 分区提交作业，运行时提示错误：`no CUDA-capable device is detected`
+### 使用 CUDA toolkit 编译程序后，在  gpu_test 分区提交作业，运行时提示错误：no CUDA-capable device is detected
 
 可能原因有二种情况：
 
